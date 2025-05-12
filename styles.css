@@ -1,0 +1,119 @@
+
+
+body {
+    background: url('images/darkest-dungeon-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'IM Fell English', serif;
+    line-height: 1.6;
+    padding: 1rem;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+    background-color: transparent;
+    float: left;
+    display: block;
+
+
+}
+.heading-1 {
+    font-size: 40px;
+    font-family: "Pirata One" , cursive;
+    text-shadow: 2px 2px 2px #000000;
+    color: #8b0000;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-left: -20px;
+    padding-top: 10px;
+    margin-bottom: 0.5rem;
+    float:left
+
+}
+.heading-2 {
+    font-family: "Pirata One" , cursive;
+    text-shadow: 2px 2px 2px #000000;
+    color: #8b0000;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    font-size: 40px;
+}
+.heading-3 {
+    font-family: "Pirata One" , cursive;
+    text-shadow: 2px 2px 2px #000000;
+    color: #8b0000;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    font-size: 35px;
+}
+.figure {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #2e2e2e;
+    background-color: #2e2e2e;
+
+}
+.blockquote {
+    font-family: "Pirata One" , cursive;
+    font-style: italic;
+    color: #e0e0e0;
+    padding: 10px;
+}
+.blockquote-footer {
+    font-family: "Pirata One" , cursive;
+    font-style: normal;
+    color: #e0e0e0;
+    text-align: right;
+    padding-right: 20px;
+}
+.container {
+    background-color: rgba(26,26,26,0.8);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    z-index: 1;
+    padding: 10px;
+}
+.nav-underline {
+    font-family: "Pirata One" , cursive;
+    font-size: 20px;
+    float: left;
+}
+
+.nav-link {
+    color: #8b0000 !important;
+}
+.nav-link:hover {
+    color: #4e944f !important;
+}
+.nav-link.active {
+    color: #f8c94a !important;
+}
+
+hr {
+    border-top: 2px solid #8b0000 !important;
+    width: 100%;
+    padding-top: -10px;
+}
+
+.text-section {
+    font-family: "IM Fell English" , serif;
+    color: #b0b0b0;
+}
+
+a {
+    color: #8b0000 !important;
+}
+a:hover {
+    color: #4e944f !important;
+}
+strong {
+    color: #8b0000 !important;
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 2px #000000;
+}
+.hr-transparent{
+    border-top: 1px transparent !important;
+}

@@ -278,6 +278,13 @@ strong {
     display: flex;
     flex-direction: row;
 }
+.tooltip-inner {
+    background-color: #222;
+    color: #ffe066;
+    font-weight: bold;
+    font-family: 'IM Fell English', serif;
+}
+
 
 
 
